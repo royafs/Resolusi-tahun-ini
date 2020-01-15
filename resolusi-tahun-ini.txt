@@ -1,3 +1,4 @@
 Belajar koding tiap hari. 
 Build everyday.
 Learn JavaScript.
+-Read more documentation.
